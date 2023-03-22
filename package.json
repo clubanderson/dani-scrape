@@ -1,0 +1,24 @@
+{
+  "name": "dani-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape1.js",
+  "dependencies": {
+    "puppeteer": "^19.7.5",
+    "puppeteer-core": "^19.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubanderson/dani-scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clubanderson/dani-scrape/issues"
+  },
+  "homepage": "https://github.com/clubanderson/dani-scrape#readme"
+}
