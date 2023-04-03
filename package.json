@@ -1,7 +1,7 @@
 {
   "name": "dani-scrape",
   "version": "1.0.0",
-  "description": "",
+  "description": "scrape a website",
   "main": "scrape1.js",
   "dependencies": {
     "puppeteer": "^19.7.5",
